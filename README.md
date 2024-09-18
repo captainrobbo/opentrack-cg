@@ -2,7 +2,7 @@
 
 # Open Athletics Community Group 
 
-This is the home repository of Open Athletics CG (officially named OpenTrack CG).
+This is the home repository of Open Athletics CG (originally named the OpenTrack CG, but renamed in 2018).
 
 The Open Athletics CG is composed by __a group of sports data enthusiasts__ motivated by the opportunities the open data promised during the rising data revolution in the public sector. This CG is a forum to discuss technology for athletics. We focus on data interoperability, including __data exchange across multi-level federations, clubs, timekeepers, race organizers, and the community in general__. The group aims to define the best approach to __make the most of the sports (open) data__ through __open standards and collaboration__. 
 
